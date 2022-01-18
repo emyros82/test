@@ -1,0 +1,54 @@
+h1{
+    color: white;
+    margin: 100px;
+    border:chocolate, solid;
+    background-color: burlywood;
+    font-family:cursive;
+    font-size:x-large;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin: 50px;
+    
+}
+p{
+    color:chocolate;
+    font-family: monospace;
+
+}
+
+.introductionDuSite {
+ color: black;
+ border:chocolate dashed 2px;
+ background-color: ivory;
+ border-radius: 5px;
+ font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+ padding: 30px;
+ margin: 10px;
+
+}
+
+.developpementDuSite {
+    color: whitesmoke;
+    border: white dotted 2px;
+    background-color: rgb(94, 94, 80);
+    border-radius: 5px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    padding: 30px;
+    margin: 10px;
+   
+   }
+
+   .conclusionDuSite{
+    color: blue;
+    border: gray solid 2px;
+    background-color: ivory;
+    border-radius: 5px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    padding: 30px;
+    margin: 10px;
+    margin-left:2px;
+    margin-right: 2px
+   
+   }
